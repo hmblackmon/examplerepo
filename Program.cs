@@ -6,7 +6,7 @@ namespace examplerepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git is great..... It really is");
+            Console.WriteLine("Git is great!");
         }
     }
 }
